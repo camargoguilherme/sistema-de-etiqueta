@@ -1,0 +1,41 @@
+*  {
+    margin:0;
+    padding:0;
+}
+
+html, body {
+    height:100%;
+}
+
+.brand-logo {
+    margin-left: 1%;
+    margin-top: 0.1%;
+}
+
+.carousel {
+    align-content: center;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.geral {
+    min-height:100%;
+    position:relative;
+}
+
+.footer {
+    align-content: center;
+    bottom: 0%;
+}
+
+.dropdown-itens{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.conteudo {
+    padding-bottom: 30px;
+    background-color: #5cb85c;
+}
